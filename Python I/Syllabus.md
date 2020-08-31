@@ -1,8 +1,8 @@
-Programming in Python 3
-Objective:
-This course is intended to teach the basics of programming	 in Python. Python’s high-level data structures and clear syntax make it an ideal first language, while the large number of existing libraries make it suitable to tackle almost any programming tasks.
+# Programming in Python 3
+## Objective
+This course is intended to teach the basics of programming in Python. Python’s high-level data structures and clear syntax make it an ideal first language, while the large number of existing libraries make it suitable to tackle almost any programming tasks.
 
-Classes:
+## Classes
 1.	Intro to course & Python: types, variables, i/o
 2.	Flow of control: branching, if/else, Boolean, modules
 3.	Loops and Strings as Sequences
