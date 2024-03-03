@@ -1,0 +1,22 @@
+1. Format SD card to FAT32.
+2. Copy NOODS to SD card.
+3. Run SD card from Raspberry Pi, it will install the system.
+4. install real VNC server, open terminal, input:
+   $ sudo apt-get update
+   $ sudo apt-get install realvnc-vnc-server
+   goto start->Preferences->Raspberry Pi Configuration->Interfaces, enable VNC.
+
+5. Install VNC viewer from laptop/iPad
+   input the IP address: 192.168.1.XXX
+   User name: pi
+   Password: raspberry
+
+6. IP address display: open terminal
+   $ sudo nano /etc/rc.local
+   type:
+   python /home/pi/Desktop/Examples/get_ip.py
+   before "exit 0"
+
+   ctrl + o to save
+
+   

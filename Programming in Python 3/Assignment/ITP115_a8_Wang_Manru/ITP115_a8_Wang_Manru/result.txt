@@ -1,0 +1,74 @@
+Here are all of the ITP classes that are 3.0 units:
+ITP 300: Database Web Development (3.0 units)
+12:30-1:50pm, 16 of 33, Zune Nguyen
+
+ITP 305: Advanced 3D Modeling, Animation, and Special Effects (3.0 units)
+12:00-1:50pm, 4 of 16, Lance Winkel
+
+ITP 308: Computer-Aided Design for Bio-Mechanical Systems (3.0 units)
+5:00-7:50pm, 29 of 33, Raymond Kim
+
+ITP 310: Design for User Experience (3.0 units)
+11:00-1:50pm, 25 of 26, Blessing Yen
+9:30-11:50am, 12 of 30, Chris Swain
+
+ITP 325: Ethical Hacking and Systems Defense (3.0 units)
+5:00-7:50pm, 11 of 27, Kaue Menem Pena
+
+ITP 341: App Development for Phones and Tablets (3.0 units)
+12:00-1:50pm, 17 of 38, Robert Parke
+
+ITP 342: Mobile Application Development (3.0 units)
+12:00-1:50pm, 44 of 60, Trina Gregory
+
+ITP 344: Advanced Topics in Mobile App Development (3.0 units)
+6:00-8:50pm, 13 of 17, Spartak Buniatyan
+
+ITP 365: Managing Data in C++ (3.0 units)
+2:00-3:50pm, 23 of 57, Nathan Greenfield
+10:00-11:50am, 41 of 53, Nathan Greenfield
+
+ITP 368: Programming Graphical User Interfaces (3.0 units)
+12:00-1:50pm, 25 of 28, Kendra Walther
+12:00-1:50pm, 35 of 40, Kendra Walther
+
+ITP 370: Information Security Management (3.0 units)
+6:00-7:20pm, 11 of 22, Mike Cassar
+
+ITP 375: Digital Forensics (3.0 units)
+9:00-10:20am, 26 of 27, Howard Williamson
+
+ITP 382: Mobile Game Programming (3.0 units)
+7:00-9:50pm, 14 of 22, Michael Sheehan
+
+ITP 405: Professional Applications and Frameworks in Web Development (3.0 units)
+6:00-8:50pm, 8 of 36, David Tang
+
+ITP 411: Multimedia and Video Production (3.0 units)
+9:00-11:50am, 20 of 25, Larry Jordan
+
+ITP 422L: Configuring Enterprise Resource Planning Systems (3.0 units)
+5:00-7:50pm, 17 of 26, Bhargav Oza
+
+ITP 435: Professional C++ (3.0 units)
+2:00-3:20pm, 50 of 60, Sanjay Madhav
+2:00-3:20pm, 52 of 60, Sanjay Madhav
+
+ITP 439: Compiler Development (3.0 units)
+5:00-6:20pm, 22 of 35, Sanjay Madhav
+
+ITP 447: Mobile Device Security and Forensics (3.0 units)
+6:00-8:50pm, 4 of 16, Pierson Clair
+
+ITP 454x: Enterprise Resource Planning, Design, and Implementation (3.0 units)
+5:00-7:50pm, 16 of 28, Richard Vawter
+
+ITP 479: Cyber Law and Privacy (3.0 units)
+5:30-8:20pm, 34 of 40, Benyomin Forer
+
+ITP 487: Data Warehouses (3.0 units)
+2:00-4:50pm, 27 of 37, Mike Lee
+
+ITP 489: In-Memory Database Systems for Real Time Analytics (3.0 units)
+2:00-3:20pm, 29 of 33, Richard Vawter
+
